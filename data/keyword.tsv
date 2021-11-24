@@ -1,0 +1,289 @@
+doc_rank	rank	keyword
+1	0	FAIMS
+1	1	HLA
+1	2	basic reversed-phase fractionation
+1	3	immunopeptidomics
+1	4	ion mobility
+2	0	B7-H1 antigen
+2	1	immunotherapy
+2	2	investigational
+2	3	therapies
+3	0	B7-H1 antigen
+3	1	CTLA-4 antigen
+3	2	immunotherapy
+3	3	investigational
+3	4	therapies
+7	0	KIT mutation
+7	1	genetics
+7	2	immune checkpoint blockade
+7	3	immunotherapy
+7	4	mucosal melanoma
+8	0	Cytokine
+8	1	Immunotherapy
+8	2	Melanoma
+8	3	Steroid
+8	4	Toxicity
+8	5	irAE
+11	0	immune checkpoint inhibitors
+11	1	kidney transplant
+11	2	onconephrology
+11	3	rejection
+12	0	NEO-PV-01
+12	1	T cell clonality
+12	2	TCR repertoire
+12	3	anti-PD-1
+12	4	cancer vaccines
+12	5	flow cytometry
+12	6	immunotherapy
+12	7	melanoma
+12	8	predictive biomarkers
+13	0	NEO-PV-01
+13	1	T cell
+13	2	anti-PD-1
+13	3	cancer vaccine
+13	4	checkpoint inhibitor
+13	5	epitope spread
+13	6	immunotherapy
+13	7	metastatic cancer
+13	8	neoantigen
+13	9	personalized vaccine
+15	0	colitis
+15	1	immunotherapy
+15	2	irAE
+15	3	melanoma
+15	4	toxicity
+15	5	vitamin D
+17	0	KEYNOTE-028
+17	1	antitumor activity
+17	2	carcinoid tumors
+17	3	immunotherapy
+17	4	pancreatic neuroendocrine tumors
+17	5	pembrolizumab
+17	6	programmed death-ligand 1
+18	0	Heart transplant
+18	1	Immune checkpoint inhibitors
+18	2	Liver transplant
+18	3	Renal transplant
+18	4	Transplant rejection
+22	0	Immunotherapy
+22	1	Pembrolizumab
+22	2	SCLC
+22	3	Third-line therapy
+23	0	Chemotherapies
+23	1	Gastric cancer
+23	2	Immunotherapy
+23	3	Observational
+23	4	Utilization patterns
+25	0	Checkpoint inhibitors
+25	1	Health services research
+25	2	Immunotherapy
+25	3	Ipilimumab
+25	4	Metastatic melanoma
+27	0	Immunotherapy
+27	1	Ipilimumab
+27	2	Programmed death-1 inhibitor
+27	3	Small cell lung cancer: Nivolumab
+28	0	Gastric cancer
+28	1	Gastroesophageal junction cancer
+28	2	Nivolumab
+30	0	PD-1 inhibitors
+30	1	immune checkpoint blockade
+30	2	palliative radiation therapy
+30	3	spinal cord compression
+30	4	vertebral metastases
+31	0	Anti-PD-1
+31	1	Body mass index
+31	2	Creatinine
+31	3	Melanoma
+31	4	Obesity paradox
+34	0	Intralesional cancer immunotherapies
+34	1	Oncolytic viral therapy
+34	2	STING agonists
+34	3	Toll-like receptor agonists
+35	0	antibody-drug conjugate
+35	1	clinical trial
+35	2	glembatumumab vedotin
+35	3	glycoprotein NMB (gpNMB)
+35	4	melanoma
+35	5	phase 2
+35	6	targeted therapy
+38	0	Clinical trials
+38	1	Gynecologic cancers
+38	2	Immunotherapy
+38	3	PD-1
+38	4	Pembrolizumab
+39	0	Atezolizumab
+39	1	Immune checkpoint inhibitors
+39	2	Interferon
+39	3	Interleukin 10
+39	4	Interleukin 15
+39	5	Interleukin-2
+39	6	Ipilimumab
+39	7	NKTR-214
+39	8	Neoantigens
+39	9	Nivolumab
+39	10	PD-1 inhibitors
+39	11	PD-l1 inhibitors
+39	12	Pembrolizumab
+39	13	Vaccines
+40	0	AM0010
+40	1	CD8(+) T cell
+40	2	IL-10
+40	3	PEGylated Interleukin 10
+40	4	T cell invigoration
+40	5	Th1
+40	6	clinical trial
+40	7	clonal expansion
+40	8	clonality
+40	9	pegilodecakin
+42	0	carcinoma in situ
+42	1	cost
+42	2	ipilimumab
+42	3	melanoma
+42	4	nonmelanoma skin cancer
+42	5	payments
+42	6	screening
+42	7	skin cancer
+46	0	Immune checkpoint blockade
+46	1	Immunotherapy
+46	2	Melanoma
+46	3	Metastasis
+46	4	Targeted therapy
+53	0	adrenal insufficiency
+53	1	autoimmune diabetes
+53	2	hyperthyroidism
+53	3	hypophysitis
+53	4	hypothyroidism
+53	5	immune checkpoint inhibitors
+53	6	immune-related adverse events
+53	7	thyroiditis
+54	0	PD-1 inhibition
+54	1	POLE
+54	2	endometrial cancer
+54	3	immunotherapy
+54	4	microsatellite instability-high
+61	0	Case reports
+61	1	Immune checkpoint blockade
+61	2	PD-1/PD-L1 inhibitor
+61	3	Sequential treatment
+62	0	Antibody therapy
+62	1	Immune checkpoint blockade
+62	2	Immunotherapy
+62	3	Melanoma
+62	4	PD-1
+64	0	Adverse events
+64	1	Immune-related adverse events
+64	2	Immunotherapy
+64	3	Metastatic melanoma
+64	4	Targeted therapy
+69	0	KEYNOTE-028
+69	1	PD-1
+69	2	PD-L1
+69	3	immunotherapy
+69	4	pembrolizumab
+69	5	squamous cell advanced anal carcinoma
+74	0	Checkpoint inhibitors
+74	1	Clinical trial
+74	2	Combination
+74	3	Endpoints
+74	4	Immunotherapy
+74	5	Preclinical models
+75	0	exceptional response
+75	1	immune checkpoint
+75	2	immunotherapy
+75	3	neoantigen
+75	4	sarcoma
+75	5	whole-exome sequencing
+75	6	whole-transcriptome sequencing
+76	0	BRAF
+76	1	CTLA-4
+76	2	Combination strategies
+76	3	Immune checkpoint inhibitors
+76	4	MEK
+76	5	Melanoma
+76	6	PD-1
+76	7	PD-L1
+76	8	Targeted therapy
+78	0	acral melanoma
+78	1	anti-programmed cell death receptor 1 (anti-PD-1)
+78	2	immunotherapy
+78	3	mucosal melanoma
+78	4	nivolumab
+78	5	pembrolizumab
+79	0	atezolizumab
+79	1	immunotherapy
+79	2	nivolumab
+79	3	pembrolizumab
+79	4	uveal melanoma
+83	0	Cardiomyopathy
+83	1	Checkpoint inhibitor
+83	2	Immune-related adverse events
+83	3	Immunotherapy
+83	4	Ipilimumab
+83	5	Melanoma
+83	6	Myocarditis
+83	7	Nivolumab
+83	8	Pembrolizumab
+85	0	Intracranial disease
+85	1	Melanoma
+85	2	Target therapy
+86	0	acute kidney injury
+86	1	ipilimumab
+86	2	nivolumab
+86	3	pembrolizumab
+89	0	Antibody therapy
+89	1	Concurrent cancer
+89	2	Immune checkpoint blockade
+89	3	Immunotherapy
+89	4	Melanoma
+89	5	PD-1
+89	6	Renal cell cancer
+92	0	abscopal effect
+92	1	immunotherapy
+92	2	ipilimumab
+92	3	melanoma
+92	4	radiation therapy
+93	0	PD-1:PD-1L blockade
+93	1	VEGF
+93	2	angiogenesis inhibitors
+93	3	immunotherapy
+93	4	melanoma
+94	0	5-hydroxymethylcytosine
+94	1	DNA demethylation
+94	2	Epigenetics
+94	3	Isocitrate dehydrogenase 2 (IDH2)
+94	4	MECOM (MDS1 and EV1 complex locus)
+94	5	MLL2
+94	6	Melanoma
+94	7	Next-generation sequencing (NGS)
+94	8	Ten-eleven translocation (TET)
+103	0	BRAF
+103	1	dabrafenib
+103	2	melanoma
+103	3	trametinib
+105	0	Immunotherapy
+105	1	Melanoma
+105	2	Neoantigen
+105	3	Vaccine
+107	0	BRAF
+107	1	MEK
+107	2	T cell
+107	3	dendritic cell
+107	4	immunotherapy
+107	5	kinase inhibitor
+107	6	melanoma
+110	0	absolute lymphocyte count
+110	1	cytotoxic T-lymphocyte-associated protein 4
+110	2	immunotherapy
+110	3	ipilimumab
+110	4	uveal melanoma
+113	0	CTLA-4
+113	1	Cancer-testis antigens
+113	2	Immunotherapy
+113	3	Ipilimumab
+113	4	Mucosal melanoma
+118	0	Cancer
+118	1	PD-1
+118	2	immune checkpoint
+118	3	infection
+118	4	inflammation
